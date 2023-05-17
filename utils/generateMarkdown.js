@@ -6,6 +6,8 @@ function renderLicenseBadge(license) {
           return '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)';
       case 'Apache 2.0':
           return '[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)';
+      case 'Mozilla Public License 2.0':
+          return '[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)]';
       default:
           return '';
   }
@@ -19,6 +21,8 @@ function renderLicenseLink(license) {
           return 'https://opensource.org/licenses/MIT';
       case 'Apache 2.0':
           return 'https://opensource.org/licenses/Apache-2.0';
+      case "Mozilla Public License 2.0":
+          return '(https://opensource.org/licenses/MPL-2.0)';
       default:
           return '';
   }
