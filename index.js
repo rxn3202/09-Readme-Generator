@@ -40,6 +40,12 @@ const questions = [
         type: "input",
         message: "any questions for the project",
         name: "questions",
+    },
+    {
+        type: "list",
+        message: "Which license would you like to use for this project?",
+        name: "license",
+        choices: ['MIT', 'Apache 2.0', 'None'],
     }
 ];
 
