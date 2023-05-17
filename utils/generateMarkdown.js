@@ -40,6 +40,16 @@ return `# ${data.title}
 ## Description
 ${data.description}
 
+## Table of Contents
+    
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributions](#contributions)
+- [Tests](#tests)
+- [Mockup](#preview)
+- [Questions](#questions)
+
 ## Installation
 ${data.installation}
 
