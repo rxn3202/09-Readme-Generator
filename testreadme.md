@@ -1,7 +1,7 @@
-# test readme
+# Readme-Generator
 
 ## Description
-to make a professional readme using node.js
+To generate a professional readme
 
 ## Table of Contents
     
@@ -14,10 +14,10 @@ to make a professional readme using node.js
 - [Questions](#questions)
 
 ## Installation
-test
+Clone repo and install inquirer
 
 ## Usage
-test
+Use command line to answer a series of questions based on readme
 
 ## Contributions
 test
@@ -26,7 +26,7 @@ test
 test
 
 ## Questions
-rnguyen011@gmail.com or github.com/rxn3202
+If you have any questions, reach out to rnguyen011@gmail.com
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
