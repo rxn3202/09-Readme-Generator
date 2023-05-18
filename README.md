@@ -32,5 +32,5 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 ## Mock Up
-
-[Preview](https://watch.screencastify.com/)
+![alt text](./utils/assets/readmetest.png)
+[Preview](./utils/assets/readme.webm)
