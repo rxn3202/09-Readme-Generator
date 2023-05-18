@@ -33,4 +33,4 @@ THEN I am taken to the corresponding section of the README
 
 ## Mock Up
 ![alt text](./utils/assets/readmetest.png)
-[Preview](https://drive.google.com/file/d/1quFOamldADz4f7nReotqXGjbhePwkzmA/view?usp=share_link)
+[Video Preview](https://drive.google.com/file/d/1quFOamldADz4f7nReotqXGjbhePwkzmA/view?usp=share_link)
